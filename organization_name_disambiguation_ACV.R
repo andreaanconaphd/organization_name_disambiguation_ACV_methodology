@@ -1,4 +1,4 @@
-# Algorithm for organization name disambiguation
+# Algorithm for organization name disambiguation developed in R
 #
 # A hybrid methodology (largely automated + manual check) to identify equivalences between labels (i.e., the ways in which organization names are reported in the raw dataset)
 #
