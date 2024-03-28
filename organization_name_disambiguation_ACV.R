@@ -6,8 +6,8 @@
 #
 # Copyright (C) 2022 by Dr. Andrea Ancona (andrea.ancona@uniroma1.it), Prof. Roy Cerqueti (roy.cerqueti@uniroma1.it), Prof. Gianluca Vagnani (gianluca.vagnani@uniroma1.it)
 #
-# An accurate description of the methodology is included in a scientific paper that has been accepted for publication in "Scientometrics", 
-# titled "A novel methodology to disambiguate organization names: an application to EU Framework Programmes data" (2023).
+# An accurate description of the methodology is included in a scientific paper published in Scientometrics: 
+# "Ancona, A., Cerqueti, R. & Vagnani, G. (2023). A novel methodology to disambiguate organization names: an application to EU Framework Programmes data. Scientometrics 128, 4447–4474, https://doi.org/10.1007/s11192-023-04746-x."
 
 # Load necessary packages
 library(readxl)
